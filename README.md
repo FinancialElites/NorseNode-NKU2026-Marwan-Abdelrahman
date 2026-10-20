@@ -85,9 +85,7 @@ The interface incorporates a campus-themed background, a live digital clock disp
 
 ## 📄 License
 
-*Add your selected project license here.*
 
----
 
 **Norse Node — Helping Students Study Smarter, Connect Faster, and Succeed Together.**
 
